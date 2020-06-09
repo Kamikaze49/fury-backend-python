@@ -13,10 +13,10 @@ This repository holds packages and libraries for a python planner microservice u
 * Employees are authenticated before access is granted
 * All employees receive updateson their dashboard
 * Auto reminder reminds employees of their events at the following times
-⋅⋅* A month
-⋅⋅* A week
-⋅⋅* 3 days
-⋅⋅* A day
-⋅⋅* An hour
-⋅⋅* 10 minutes
-* A notes field is created for employees at the start of each event
+  * A month
+  * A week
+  * 3 days
+  * A day
+  * An hour
+  * 10 minutes
+  * A notes field is created for employees at the start of each event
