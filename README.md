@@ -1,14 +1,14 @@
 # fury-backend-python
 Repository for planner microservice app
 
-##Description
+## Description
 This repository holds packages and libraries for a python planner microservice used to schedule events and reminders for a company.
 
-##User Classes
+## User Classes
 1. Company administrators
 2. Company employees
 
-##Features
+## Features
 * Events can be set up by an administrator
 * Employees are authenticated before access is granted
 * All employees receive updateson their dashboard
