@@ -2,7 +2,7 @@
 Repository for planner microservice app
 
 ## Description
-This repository holds packages and libraries for a python planner microservice used to schedule events and reminders for a company.
+The planner micro-service is an enhanced TO-DO micro-service for planning and scheduling tasks.
 
 ## User Classes
 1. Company administrators
@@ -19,4 +19,4 @@ This repository holds packages and libraries for a python planner microservice u
   * A day
   * An hour
   * 10 minutes
-  * A notes field is created for employees at the start of each event
+* A notes field is created for employees at the start of each event
