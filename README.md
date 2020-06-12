@@ -23,7 +23,9 @@ The planner micro-service is an enhanced TO-DO micro-service for planning and sc
 * A notes field is created for employees at the start of each event
 
 ## ER Diagram
-![ER Diagram for planner microservice](ER Diagram.jpg)
+<img src="ER Diagram.jpg"
+     alt="ER diagram for planer microservice"
+     style="width:150px; height:150px;" />
 
 ### Getting Started
 
