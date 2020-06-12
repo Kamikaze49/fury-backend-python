@@ -1,7 +1,6 @@
 # fury-backend-python Web Application
 
 ## Table of Contents
-* [fury-backend-python Web Application](#fury-backend-python-web-application)
 * [Description](#description)
 * [User Classes](#user-classes)
 * [Features](#features)
