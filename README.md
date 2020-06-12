@@ -1,20 +1,19 @@
 # fury-backend-python Web Application
 
 ## Table of Contents
-- [Project Title](#project-title)
-  * [fury-backend-python Web Application](#fury-backend-python-web-application)
-  * [Description](#description)
-  * [User Classes](#user-classes)
-  * [Features](#features)
-  * [ER Diagram](#er-diagram)
-    + [Getting Started](#getting-started)
-    + [Prerequisites](#prerequisites)
-    + [Installing](#installing)
-    + [Go to the directory where the manage.py file is located](#go-to-the-directory-where-the-managepy-file-is-located)
-    + [Built With](#built-with)
-    + [End Points](#end-points)
+* [fury-backend-python Web Application](#fury-backend-python-web-application)
+* [Description](#description)
+* [User Classes](#user-classes)
+* [Features](#features)
+* [ER Diagram](#er-diagram)
+* [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installing](#installing)
+    * [Go to the directory where the manage.py file is located](#go-to-the-directory-where-the-managepy-file-is-located)
+    * [Built With](#built-with)
+    * [End Points](#end-points)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Description
 The planner micro-service is an enhanced TO-DO micro-service for planning and scheduling tasks.
