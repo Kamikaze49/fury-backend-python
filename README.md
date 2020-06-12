@@ -25,7 +25,6 @@ The planner micro-service is an enhanced TO-DO micro-service for planning and sc
 ## ER Diagram
 ![ER Diagram for planner microservice](ER Diagram.jpg)
 
-
 ### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purpose.
